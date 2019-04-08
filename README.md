@@ -1,7 +1,7 @@
 # Data-analysis
 Data analysis through jupyter notebook
 
-18年因为转行，准备了一些项目，现在看起来都是很简单的知识点。
+18年计划转能源方面的数据挖掘岗位，准备了一些项目。
 
 ### 1. [光伏Pr衰减分析](https://github.com/kunkun1230/Data-analysis/tree/master/%E5%85%89%E4%BC%8FPr%E8%A1%B0%E5%87%8F%E5%88%86%E6%9E%90)  
 1.分析历年的光伏发电量数据与辐照度，气温等因素的关系；  
