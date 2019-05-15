@@ -42,3 +42,9 @@ Data analysis through jupyter notebook
 2.依据叶片运输问题，构建数据集    
 3.建立数学模型，添加约束条件      
 4.求解各个路径分配的运输量，并总结一般问题的结题思路   
+
+### 9. [稀疏矩阵转化与压缩](https://github.com/kunkun1230/Data-analysis/blob/master/sparse_matrix.ipynb)
+1.基于用户对商品的评分，获得用户-商品评分矩阵  
+2.对于数据量巨大的矩阵，必定需要压缩来减少空间占用  
+3.因此调用了python的scipy.parse模块对矩阵分别进行了COO、CSR、CSC三种形式的压缩
+
