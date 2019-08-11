@@ -48,3 +48,6 @@ Data analysis through jupyter notebook
 2.对于数据量巨大的矩阵，必定需要压缩来减少空间占用  
 3.因此调用了python的scipy.parse模块对矩阵分别进行了COO、CSR、CSC三种形式的压缩
 
+### 10. [Sharebike](https://github.com/kunkun1230/Data-analysis/tree/master/sharebike)
+1.常规的数据分析流程（观察数据，数据预处理，特征工程，建立模型，结果分析等）  
+2.预测未来一段时间共享单车的使用量
