@@ -51,3 +51,7 @@ Data analysis through jupyter notebook
 ### 10. [Sharebike](https://github.com/kunkun1230/Data-analysis/tree/master/sharebike)
 1.常规的数据分析流程（观察数据，数据预处理，特征工程，建立模型，结果分析等）  
 2.预测未来一段时间共享单车的使用量
+
+### 11. [LSTM时间序列分析](https://github.com/kunkun1230/Data-analysis/tree/master/Keras%E7%9A%84LSTM%E6%97%B6%E6%95%88%E9%A2%84%E6%B5%8B)
+1.基于Keras框架，介绍了LSTM模型的参数设置   
+2.案例说明，在已知过去一段时间发货量的基础上，预测未来某天的发货量
