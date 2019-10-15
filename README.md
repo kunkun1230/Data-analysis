@@ -35,7 +35,8 @@ Data analysis through jupyter notebook
 1.通过Python中的SQL模块读取数据  
 2.分析数据结构，并对时间列进一步细化处理  
 3.通过数据透视表的形势对时间进行分列处理    
-4.导入K-means模块，并构建聚类可视化类，进行可视化处理  
+4.导入K-means模块，并构建聚类可视化类，进行可视化处理
+5.数据量略大，分享到云盘：链接：https://pan.baidu.com/s/1ydLyqyQGZe4ouQrtWnwR7g 提取码：0sc6
 
 ### 8. [叶片运输问题总结](https://github.com/kunkun1230/Data-analysis/blob/master/%E5%8F%B6%E7%89%87%E8%BF%90%E8%BE%93%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93.ipynb)
 1.基于运筹学中的运输问题，调用python的pulp模块进行线性优化   
